@@ -1,0 +1,14 @@
+C:\Data_UCOM\Day2\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data_UCOM\Day2\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.AssemblyInfoInputs.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.AssemblyInfo.cs
+C:\Data_UCOM\Day2\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.csproj.CoreCompileInputs.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.exe
+C:\Data_UCOM\Day2\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.deps.json
+C:\Data_UCOM\Day2\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.runtimeconfig.json
+C:\Data_UCOM\Day2\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.pdb
+C:\Data_UCOM\Day2\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap12\obj\Debug\net8.0\refint\Ap12.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.pdb
+C:\Data_UCOM\Day2\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.genruntimeconfig.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap12\obj\Debug\net8.0\ref\Ap12.dll

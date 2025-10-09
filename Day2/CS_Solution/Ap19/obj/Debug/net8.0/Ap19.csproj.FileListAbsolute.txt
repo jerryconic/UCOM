@@ -1,0 +1,14 @@
+C:\Data_UCOM\Day2\CS_Solution\Ap19\bin\Debug\net8.0\Ap19.exe
+C:\Data_UCOM\Day2\CS_Solution\Ap19\bin\Debug\net8.0\Ap19.deps.json
+C:\Data_UCOM\Day2\CS_Solution\Ap19\bin\Debug\net8.0\Ap19.runtimeconfig.json
+C:\Data_UCOM\Day2\CS_Solution\Ap19\bin\Debug\net8.0\Ap19.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap19\bin\Debug\net8.0\Ap19.pdb
+C:\Data_UCOM\Day2\CS_Solution\Ap19\obj\Debug\net8.0\Ap19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data_UCOM\Day2\CS_Solution\Ap19\obj\Debug\net8.0\Ap19.AssemblyInfoInputs.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap19\obj\Debug\net8.0\Ap19.AssemblyInfo.cs
+C:\Data_UCOM\Day2\CS_Solution\Ap19\obj\Debug\net8.0\Ap19.csproj.CoreCompileInputs.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap19\obj\Debug\net8.0\Ap19.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap19\obj\Debug\net8.0\refint\Ap19.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap19\obj\Debug\net8.0\Ap19.pdb
+C:\Data_UCOM\Day2\CS_Solution\Ap19\obj\Debug\net8.0\Ap19.genruntimeconfig.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap19\obj\Debug\net8.0\ref\Ap19.dll
