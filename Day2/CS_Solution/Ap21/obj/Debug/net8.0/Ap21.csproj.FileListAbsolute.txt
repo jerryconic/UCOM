@@ -1,0 +1,14 @@
+C:\Data_UCOM\Day2\CS_Solution\Ap21\bin\Debug\net8.0\Ap21.exe
+C:\Data_UCOM\Day2\CS_Solution\Ap21\bin\Debug\net8.0\Ap21.deps.json
+C:\Data_UCOM\Day2\CS_Solution\Ap21\bin\Debug\net8.0\Ap21.runtimeconfig.json
+C:\Data_UCOM\Day2\CS_Solution\Ap21\bin\Debug\net8.0\Ap21.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap21\bin\Debug\net8.0\Ap21.pdb
+C:\Data_UCOM\Day2\CS_Solution\Ap21\obj\Debug\net8.0\Ap21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data_UCOM\Day2\CS_Solution\Ap21\obj\Debug\net8.0\Ap21.AssemblyInfoInputs.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap21\obj\Debug\net8.0\Ap21.AssemblyInfo.cs
+C:\Data_UCOM\Day2\CS_Solution\Ap21\obj\Debug\net8.0\Ap21.csproj.CoreCompileInputs.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap21\obj\Debug\net8.0\Ap21.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap21\obj\Debug\net8.0\refint\Ap21.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap21\obj\Debug\net8.0\Ap21.pdb
+C:\Data_UCOM\Day2\CS_Solution\Ap21\obj\Debug\net8.0\Ap21.genruntimeconfig.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap21\obj\Debug\net8.0\ref\Ap21.dll
