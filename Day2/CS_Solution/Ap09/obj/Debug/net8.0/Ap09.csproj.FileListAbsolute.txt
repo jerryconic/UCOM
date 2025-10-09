@@ -1,0 +1,14 @@
+C:\Data_UCOM\Day2\CS_Solution\Ap09\bin\Debug\net8.0\Ap09.exe
+C:\Data_UCOM\Day2\CS_Solution\Ap09\bin\Debug\net8.0\Ap09.deps.json
+C:\Data_UCOM\Day2\CS_Solution\Ap09\bin\Debug\net8.0\Ap09.runtimeconfig.json
+C:\Data_UCOM\Day2\CS_Solution\Ap09\bin\Debug\net8.0\Ap09.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap09\bin\Debug\net8.0\Ap09.pdb
+C:\Data_UCOM\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data_UCOM\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.AssemblyInfoInputs.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.AssemblyInfo.cs
+C:\Data_UCOM\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.csproj.CoreCompileInputs.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap09\obj\Debug\net8.0\refint\Ap09.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.pdb
+C:\Data_UCOM\Day2\CS_Solution\Ap09\obj\Debug\net8.0\Ap09.genruntimeconfig.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap09\obj\Debug\net8.0\ref\Ap09.dll

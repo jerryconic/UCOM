@@ -1,0 +1,14 @@
+C:\Data_UCOM\Day2\CS_Solution\Ap06\bin\Debug\net8.0\Ap06.exe
+C:\Data_UCOM\Day2\CS_Solution\Ap06\bin\Debug\net8.0\Ap06.deps.json
+C:\Data_UCOM\Day2\CS_Solution\Ap06\bin\Debug\net8.0\Ap06.runtimeconfig.json
+C:\Data_UCOM\Day2\CS_Solution\Ap06\bin\Debug\net8.0\Ap06.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap06\bin\Debug\net8.0\Ap06.pdb
+C:\Data_UCOM\Day2\CS_Solution\Ap06\obj\Debug\net8.0\Ap06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data_UCOM\Day2\CS_Solution\Ap06\obj\Debug\net8.0\Ap06.AssemblyInfoInputs.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap06\obj\Debug\net8.0\Ap06.AssemblyInfo.cs
+C:\Data_UCOM\Day2\CS_Solution\Ap06\obj\Debug\net8.0\Ap06.csproj.CoreCompileInputs.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap06\obj\Debug\net8.0\Ap06.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap06\obj\Debug\net8.0\refint\Ap06.dll
+C:\Data_UCOM\Day2\CS_Solution\Ap06\obj\Debug\net8.0\Ap06.pdb
+C:\Data_UCOM\Day2\CS_Solution\Ap06\obj\Debug\net8.0\Ap06.genruntimeconfig.cache
+C:\Data_UCOM\Day2\CS_Solution\Ap06\obj\Debug\net8.0\ref\Ap06.dll
