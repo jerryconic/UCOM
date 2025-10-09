@@ -1,0 +1,14 @@
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.exe
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.deps.json
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.runtimeconfig.json
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.dll
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.pdb
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.GeneratedMSBuildEditorConfig.editorconfig
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.AssemblyInfoInputs.cache
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.AssemblyInfo.cs
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.csproj.CoreCompileInputs.cache
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.dll
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\obj\Debug\net8.0\refint\Ap12.dll
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.pdb
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.genruntimeconfig.cache
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap12\obj\Debug\net8.0\ref\Ap12.dll

@@ -1,0 +1,31 @@
+﻿string s, curr;
+int nt;
+decimal amount;
+
+Console.Write("台幣金額:");
+s = Console.ReadLine();
+nt = int.Parse(s);
+
+Console.Write("幣別(U=USD/E=EUR/J=JPY):");
+curr = Console.ReadLine();
+
+switch(curr)
+{
+    case "U":
+    case "u":
+        amount = nt / 28.93M;
+        break;
+    case "J":
+    case "j":
+        amount = nt / 0.2048M;
+        break;
+    case "E":
+    case "e":
+        amount = nt / 34.05M;
+        break;
+    default:
+        amount = 0;
+        break;
+}
+
+Console.WriteLine($"NT={nt:#,##0}, 可兌換金額={amount:#,##0.00}");

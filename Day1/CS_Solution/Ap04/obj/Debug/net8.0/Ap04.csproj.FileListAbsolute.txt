@@ -1,0 +1,14 @@
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\bin\Debug\net8.0\Ap04.exe
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\bin\Debug\net8.0\Ap04.deps.json
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\bin\Debug\net8.0\Ap04.runtimeconfig.json
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\bin\Debug\net8.0\Ap04.dll
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\bin\Debug\net8.0\Ap04.pdb
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\obj\Debug\net8.0\Ap04.GeneratedMSBuildEditorConfig.editorconfig
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\obj\Debug\net8.0\Ap04.AssemblyInfoInputs.cache
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\obj\Debug\net8.0\Ap04.AssemblyInfo.cs
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\obj\Debug\net8.0\Ap04.csproj.CoreCompileInputs.cache
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\obj\Debug\net8.0\Ap04.dll
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\obj\Debug\net8.0\refint\Ap04.dll
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\obj\Debug\net8.0\Ap04.pdb
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\obj\Debug\net8.0\Ap04.genruntimeconfig.cache
+D:\教育訓練\台全電機\C#_Basic\CS_Solution\Ap04\obj\Debug\net8.0\ref\Ap04.dll
