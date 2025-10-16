@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ap02</name>
+    </assembly>
+    <members>
+        <member name="M:Ap02.Cube.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            立方體
+            </summary>
+            <param name="length">長</param>
+            <param name="width">寬</param>
+            <param name="height">高</param>
+        </member>
+        <member name="M:Ap02.Cube.Volume">
+            <summary>
+            體積
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Ap02.Cube.Area">
+            <summary>
+            表面積
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
