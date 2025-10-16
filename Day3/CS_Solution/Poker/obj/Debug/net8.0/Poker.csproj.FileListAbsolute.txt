@@ -1,0 +1,14 @@
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\bin\Debug\net8.0\Poker.exe
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\bin\Debug\net8.0\Poker.deps.json
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\bin\Debug\net8.0\Poker.runtimeconfig.json
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\bin\Debug\net8.0\Poker.dll
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\bin\Debug\net8.0\Poker.pdb
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\obj\Debug\net8.0\Poker.GeneratedMSBuildEditorConfig.editorconfig
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\obj\Debug\net8.0\Poker.AssemblyInfoInputs.cache
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\obj\Debug\net8.0\Poker.AssemblyInfo.cs
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\obj\Debug\net8.0\Poker.csproj.CoreCompileInputs.cache
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\obj\Debug\net8.0\Poker.dll
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\obj\Debug\net8.0\refint\Poker.dll
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\obj\Debug\net8.0\Poker.pdb
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\obj\Debug\net8.0\Poker.genruntimeconfig.cache
+D:\教育訓練\台全電機\Day3\CS_Solution\Poker\obj\Debug\net8.0\ref\Poker.dll

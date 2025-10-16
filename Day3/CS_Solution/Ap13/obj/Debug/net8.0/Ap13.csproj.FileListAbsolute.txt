@@ -1,0 +1,14 @@
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\bin\Debug\net8.0\Ap13.exe
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\bin\Debug\net8.0\Ap13.deps.json
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\bin\Debug\net8.0\Ap13.runtimeconfig.json
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\bin\Debug\net8.0\Ap13.dll
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\bin\Debug\net8.0\Ap13.pdb
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.GeneratedMSBuildEditorConfig.editorconfig
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.AssemblyInfoInputs.cache
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.AssemblyInfo.cs
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.csproj.CoreCompileInputs.cache
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.dll
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\obj\Debug\net8.0\refint\Ap13.dll
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.pdb
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.genruntimeconfig.cache
+D:\教育訓練\台全電機\Day3\CS_Solution\Ap13\obj\Debug\net8.0\ref\Ap13.dll
