@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -33,6 +34,12 @@ namespace Ap04
             else
                 Console.WriteLine("猜對了");
             return _ans == _guess;
+            /*
+            if (_ans == _guess)
+                return true;
+            else
+                return false;
+            */
         }
     }
 }
