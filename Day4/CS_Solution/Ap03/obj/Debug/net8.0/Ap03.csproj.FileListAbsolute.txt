@@ -1,0 +1,14 @@
+C:\Day4\CS_Solution\Ap03\bin\Debug\net8.0\Ap03.exe
+C:\Day4\CS_Solution\Ap03\bin\Debug\net8.0\Ap03.deps.json
+C:\Day4\CS_Solution\Ap03\bin\Debug\net8.0\Ap03.runtimeconfig.json
+C:\Day4\CS_Solution\Ap03\bin\Debug\net8.0\Ap03.dll
+C:\Day4\CS_Solution\Ap03\bin\Debug\net8.0\Ap03.pdb
+C:\Day4\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day4\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.AssemblyInfoInputs.cache
+C:\Day4\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.AssemblyInfo.cs
+C:\Day4\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.csproj.CoreCompileInputs.cache
+C:\Day4\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.dll
+C:\Day4\CS_Solution\Ap03\obj\Debug\net8.0\refint\Ap03.dll
+C:\Day4\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.pdb
+C:\Day4\CS_Solution\Ap03\obj\Debug\net8.0\Ap03.genruntimeconfig.cache
+C:\Day4\CS_Solution\Ap03\obj\Debug\net8.0\ref\Ap03.dll

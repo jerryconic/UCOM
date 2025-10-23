@@ -1,0 +1,14 @@
+C:\Day4\CS_Solution\Ap05\bin\Debug\net8.0\Ap05.exe
+C:\Day4\CS_Solution\Ap05\bin\Debug\net8.0\Ap05.deps.json
+C:\Day4\CS_Solution\Ap05\bin\Debug\net8.0\Ap05.runtimeconfig.json
+C:\Day4\CS_Solution\Ap05\bin\Debug\net8.0\Ap05.dll
+C:\Day4\CS_Solution\Ap05\bin\Debug\net8.0\Ap05.pdb
+C:\Day4\CS_Solution\Ap05\obj\Debug\net8.0\Ap05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day4\CS_Solution\Ap05\obj\Debug\net8.0\Ap05.AssemblyInfoInputs.cache
+C:\Day4\CS_Solution\Ap05\obj\Debug\net8.0\Ap05.AssemblyInfo.cs
+C:\Day4\CS_Solution\Ap05\obj\Debug\net8.0\Ap05.csproj.CoreCompileInputs.cache
+C:\Day4\CS_Solution\Ap05\obj\Debug\net8.0\Ap05.dll
+C:\Day4\CS_Solution\Ap05\obj\Debug\net8.0\refint\Ap05.dll
+C:\Day4\CS_Solution\Ap05\obj\Debug\net8.0\Ap05.pdb
+C:\Day4\CS_Solution\Ap05\obj\Debug\net8.0\Ap05.genruntimeconfig.cache
+C:\Day4\CS_Solution\Ap05\obj\Debug\net8.0\ref\Ap05.dll
