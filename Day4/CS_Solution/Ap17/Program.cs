@@ -1,0 +1,44 @@
+﻿using Microsoft.Data.SqlClient;
+List<Product> products = new List<Product>();
+using (SqlConnection cn = new SqlConnection(@"
+Server=.;
+Database=Northwind;
+User ID=sa;Password=1234;
+TrustServerCertificate=true;"))
+{
+
+    SqlCommand cmd = cn.CreateCommand();
+    cmd.CommandText = "SELECT * FROM dbo.Products";
+
+    cn.Open();
+    using (SqlDataReader rd = cmd.ExecuteReader())
+    {
+        while (rd.Read())
+        {
+            //List<Product> products = new List<Product>();
+            //rd["ProductID"], rd["ProductName"], rs["UnitPrice"]
+            products.Add(new Product
+            {
+                ProductID = (int)rd["ProductID"],
+                ProductName = (string)rd["ProductName"],
+                UnitPrice = (decimal)rd["UnitPrice"]
+            });
+        }
+        rd.Close();
+    }
+    cn.Close();
+}
+var result = from p in products where p.UnitPrice <= 10 orderby p.UnitPrice descending select p;
+foreach(Product p in result) Console.WriteLine(p);
+class Product
+{
+    public required int ProductID { get; set; }
+    public required string ProductName { get; set; }
+
+    public decimal UnitPrice { get; set; }
+    public override string ToString()
+    {
+        return $"ProductID={ProductID}, ProductName={ProductName}, UnitPrice={UnitPrice}";
+    }
+
+}
