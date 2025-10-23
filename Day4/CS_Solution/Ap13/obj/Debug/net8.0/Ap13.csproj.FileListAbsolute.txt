@@ -1,0 +1,14 @@
+C:\Day4\CS_Solution\Ap13\bin\Debug\net8.0\Ap13.exe
+C:\Day4\CS_Solution\Ap13\bin\Debug\net8.0\Ap13.deps.json
+C:\Day4\CS_Solution\Ap13\bin\Debug\net8.0\Ap13.runtimeconfig.json
+C:\Day4\CS_Solution\Ap13\bin\Debug\net8.0\Ap13.dll
+C:\Day4\CS_Solution\Ap13\bin\Debug\net8.0\Ap13.pdb
+C:\Day4\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day4\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.AssemblyInfoInputs.cache
+C:\Day4\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.AssemblyInfo.cs
+C:\Day4\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.csproj.CoreCompileInputs.cache
+C:\Day4\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.dll
+C:\Day4\CS_Solution\Ap13\obj\Debug\net8.0\refint\Ap13.dll
+C:\Day4\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.pdb
+C:\Day4\CS_Solution\Ap13\obj\Debug\net8.0\Ap13.genruntimeconfig.cache
+C:\Day4\CS_Solution\Ap13\obj\Debug\net8.0\ref\Ap13.dll

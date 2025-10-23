@@ -1,0 +1,14 @@
+C:\Day4\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.exe
+C:\Day4\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.deps.json
+C:\Day4\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.runtimeconfig.json
+C:\Day4\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.dll
+C:\Day4\CS_Solution\Ap12\bin\Debug\net8.0\Ap12.pdb
+C:\Day4\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day4\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.AssemblyInfoInputs.cache
+C:\Day4\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.AssemblyInfo.cs
+C:\Day4\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.csproj.CoreCompileInputs.cache
+C:\Day4\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.dll
+C:\Day4\CS_Solution\Ap12\obj\Debug\net8.0\refint\Ap12.dll
+C:\Day4\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.pdb
+C:\Day4\CS_Solution\Ap12\obj\Debug\net8.0\Ap12.genruntimeconfig.cache
+C:\Day4\CS_Solution\Ap12\obj\Debug\net8.0\ref\Ap12.dll
