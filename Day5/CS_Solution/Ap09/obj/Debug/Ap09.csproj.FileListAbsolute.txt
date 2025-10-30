@@ -1,0 +1,10 @@
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap09\bin\Debug\Ap09.exe.config
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap09\bin\Debug\Ap09.exe
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap09\bin\Debug\Ap09.pdb
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap09\obj\Debug\Ap09.csproj.AssemblyReference.cache
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap09\obj\Debug\Ap09.Form1.resources
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap09\obj\Debug\Ap09.Properties.Resources.resources
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap09\obj\Debug\Ap09.csproj.GenerateResource.cache
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap09\obj\Debug\Ap09.csproj.CoreCompileInputs.cache
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap09\obj\Debug\Ap09.exe
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap09\obj\Debug\Ap09.pdb

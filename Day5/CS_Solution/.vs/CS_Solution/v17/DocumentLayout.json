@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE6F929B-2080-4722-90D5-CD3FF8EEF57F}|Ap08\\Ap08.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\day5\\cs_solution\\ap08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BE6F929B-2080-4722-90D5-CD3FF8EEF57F}|Ap08\\Ap08.csproj|solutionrelative:ap08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D11157DB-62F4-4697-87EE-333E6958B728}|Ap14\\Ap14.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\day5\\cs_solution\\ap14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11157DB-62F4-4697-87EE-333E6958B728}|Ap14\\Ap14.csproj|solutionrelative:ap14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6F929B-2080-4722-90D5-CD3FF8EEF57F}|Ap08\\Ap08.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\day5\\cs_solution\\ap08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6F929B-2080-4722-90D5-CD3FF8EEF57F}|Ap08\\Ap08.csproj|solutionrelative:ap08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D11157DB-62F4-4697-87EE-333E6958B728}|Ap14\\Ap14.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\day5\\cs_solution\\ap14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D11157DB-62F4-4697-87EE-333E6958B728}|Ap14\\Ap14.csproj|solutionrelative:ap14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B949203-71F0-4B14-BB6D-4F8D2FADF622}|Ap07\\Ap07.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\day5\\cs_solution\\ap07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B949203-71F0-4B14-BB6D-4F8D2FADF622}|Ap07\\Ap07.csproj|solutionrelative:ap07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64099190-921C-4750-902B-5C436AD5D258}|Ap13\\Ap13.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\day5\\cs_solution\\ap13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64099190-921C-4750-902B-5C436AD5D258}|Ap13\\Ap13.csproj|solutionrelative:ap13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B949203-71F0-4B14-BB6D-4F8D2FADF622}|Ap07\\Ap07.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\day5\\cs_solution\\ap07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1B949203-71F0-4B14-BB6D-4F8D2FADF622}|Ap07\\Ap07.csproj|solutionrelative:ap07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{64099190-921C-4750-902B-5C436AD5D258}|Ap13\\Ap13.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\day5\\cs_solution\\ap13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64099190-921C-4750-902B-5C436AD5D258}|Ap13\\Ap13.csproj|solutionrelative:ap13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap08\\Form1.cs",
-              "RelativeDocumentMoniker": "Ap08\\Form1.cs",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap08\\Form1.cs",
-              "RelativeToolTip": "Ap08\\Form1.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA3wCwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap14\\Form1.cs",
+              "RelativeDocumentMoniker": "Ap14\\Form1.cs",
+              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap14\\Form1.cs",
+              "RelativeToolTip": "Ap14\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T07:20:21.709Z",
+              "WhenOpened": "2025-10-30T08:46:18.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap08\\Form1.cs",
-              "RelativeDocumentMoniker": "Ap08\\Form1.cs",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap08\\Form1.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "Ap08\\Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap14\\Form1.cs",
+              "RelativeDocumentMoniker": "Ap14\\Form1.cs",
+              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap14\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Ap14\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T07:18:13.544Z",
+              "WhenOpened": "2025-10-30T08:43:12.271Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap13\\Form1.cs",
+              "RelativeDocumentMoniker": "Ap13\\Form1.cs",
+              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap13\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Ap13\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:33:17.829Z",
               "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap07\\Form1.cs",
-              "RelativeDocumentMoniker": "Ap07\\Form1.cs",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap07\\Form1.cs",
-              "RelativeToolTip": "Ap07\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBUAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap13\\Form1.cs",
+              "RelativeDocumentMoniker": "Ap13\\Form1.cs",
+              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap13\\Form1.cs",
+              "RelativeToolTip": "Ap13\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T07:12:38.698Z",
+              "WhenOpened": "2025-10-30T08:28:18.869Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap07\\Form1.cs",
-              "RelativeDocumentMoniker": "Ap07\\Form1.cs",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Day5\\CS_Solution\\Ap07\\Form1.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "Ap07\\Form1.cs [\u8A2D\u8A08]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T07:11:57.672Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
             }
           ]
         }
