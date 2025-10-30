@@ -1,0 +1,16 @@
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\bin\Debug\net8.0-windows\Ap02.exe
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\bin\Debug\net8.0-windows\Ap02.deps.json
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\bin\Debug\net8.0-windows\Ap02.runtimeconfig.json
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\bin\Debug\net8.0-windows\Ap02.dll
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\bin\Debug\net8.0-windows\Ap02.pdb
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.Form1.resources
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.csproj.GenerateResource.cache
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.GeneratedMSBuildEditorConfig.editorconfig
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.AssemblyInfoInputs.cache
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.AssemblyInfo.cs
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.csproj.CoreCompileInputs.cache
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.dll
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\refint\Ap02.dll
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.pdb
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\Ap02.genruntimeconfig.cache
+D:\教育訓練\台全電機\Day5\CS_Solution\Ap02\obj\Debug\net8.0-windows\ref\Ap02.dll
