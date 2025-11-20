@@ -1,0 +1,10 @@
+C:\Data\Day6\CS_Solution\Ap03\bin\Debug\Ap03.exe.config
+C:\Data\Day6\CS_Solution\Ap03\bin\Debug\Ap03.exe
+C:\Data\Day6\CS_Solution\Ap03\bin\Debug\Ap03.pdb
+C:\Data\Day6\CS_Solution\Ap03\obj\Debug\Ap03.csproj.AssemblyReference.cache
+C:\Data\Day6\CS_Solution\Ap03\obj\Debug\Ap03.Form1.resources
+C:\Data\Day6\CS_Solution\Ap03\obj\Debug\Ap03.Properties.Resources.resources
+C:\Data\Day6\CS_Solution\Ap03\obj\Debug\Ap03.csproj.GenerateResource.cache
+C:\Data\Day6\CS_Solution\Ap03\obj\Debug\Ap03.csproj.CoreCompileInputs.cache
+C:\Data\Day6\CS_Solution\Ap03\obj\Debug\Ap03.exe
+C:\Data\Day6\CS_Solution\Ap03\obj\Debug\Ap03.pdb
