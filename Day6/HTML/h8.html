@@ -36,12 +36,14 @@
     <input type="checkbox" id="chkType2"><label for="chkType2">Type II</label>
     <input type="checkbox" id="chkType3"><label for="chkType3">Type III</label>
     <br>
-    <input type="color" onchange="document.getElementById('txtColor').value=this.value" ><input id="txtColor">
+    color:<input type="color" onchange="document.getElementById('txtColor').value=this.value" ><input id="txtColor">
     <br>
-    <input type="date">
-    <input type="month">
-     <input type="time">
-    <input type="number" min="1" max="10">
-    <input type="password">
+    date:<input type="date"><br>
+    month:<input type="month"><br>
+    time:<input type="time"><br>
+    week:<input type="week"><br>
+    Number(1-100):<input type="number" min="1" max="100" id="txtNum">
+    <input type="range" min="1" max="100" onchange="document.getElementById('txtNum').value=this.value;" ><br>
+    Password:<input type="password">
     </body>
 </html>
