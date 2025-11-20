@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html-8</title>
+</head>
+<body>
+    <label for="txtData">Data:</label><input id="txtData" value="Hello world!"><button>OK</button>
+    <br>
+    <ul style="list-style-type:circle">
+        <li>item-1</li>
+        <li>item-2</li>
+        <li>item-3</li>
+        <li>item-4</li>
+        <li>item-5</li>
+    </ul>
+    <ol style="list-style-type: lower-roman;">
+        <li>item-1</li>
+        <li>item-2</li>
+        <li>item-3</li>
+        <li>item-4</li>
+        <li>item-5</li>
+    </ol>
+    <select>
+        <option>美金(&dollar;)</option>
+        <option>日圓(&yen;)</option>
+        <option>歐元(&euro;)</option>
+    </select>
+    <br>
+    <input type="radio" id="rdoType1" name="R1"><label for="rdoType1">Type I</label>
+    <input type="radio" id="rdoType2" name="R1"><label for="rdoType2">Type II</label>
+    <input type="radio" id="rdoType3" name="R1"><label for="rdoType3">Type III</label>
+    <br>
+    <input type="checkbox" id="chkType1"><label for="chkType1">Type I</label>
+    <input type="checkbox" id="chkType2"><label for="chkType2">Type II</label>
+    <input type="checkbox" id="chkType3"><label for="chkType3">Type III</label>
+    <br>
+    <input type="color" onchange="document.getElementById('txtColor').value=this.value" ><input id="txtColor">
+    <br>
+    <input type="date">
+    <input type="month">
+     <input type="time">
+    <input type="number" min="1" max="10">
+    <input type="password">
+    </body>
+</html>
