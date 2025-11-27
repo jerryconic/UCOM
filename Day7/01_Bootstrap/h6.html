@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap 5 Modal Example</title>
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container mt-5 text-center">
+        <!-- 觸發 Dialog 的按鈕 -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myDialog">
+            Open Dialog
+        </button>
+    </div>
+
+    <!-- Dialog (Modal) -->
+    <div class="modal fade" id="myDialog" tabindex="-1" aria-labelledby="myDialogLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <!-- 標題列 -->
+                <div class="modal-header">
+                    <h5 class="modal-title" id="myDialogLabel">Dialog Title</h5>
+                    <!-- 右上角關閉 (X) -->
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+
+                <!-- 內容區 -->
+                <div class="modal-body">
+                    這是一個 Bootstrap 5 的 Dialog 範例。
+                </div>
+
+                <!-- 底部按鈕區 -->
+                <div class="modal-footer">
+                    <!-- Close 按鈕：按下去關閉 Dialog -->
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                        Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap 5 JS (包含 Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

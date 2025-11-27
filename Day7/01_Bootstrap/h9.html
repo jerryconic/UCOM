@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap 5 計算機</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center align-items-center min-vh-100">
+            <div class="col-md-6 col-lg-4">
+                <div class="card shadow">
+                    <div class="card-body">
+                        <h3 class="card-title text-center mb-4">計算機</h3>
+                        
+                        <div class="mb-3 d-flex align-items-center">
+                            <label class="form-label me-2 mb-0 text-end" style="min-width: 60px;">A=</label>
+                            <input type="number" class="form-control text-center" id="inputA">
+                        </div>
+                        
+                        <div class="mb-3 d-flex align-items-center">
+                            <label class="form-label me-2 mb-0 text-end" style="min-width: 60px;">B=</label>
+                            <input type="number" class="form-control text-center" id="inputB">
+                        </div>
+                        
+                        <div class="mb-3 d-flex align-items-center">
+                            <label class="form-label me-2 mb-0 text-end" style="min-width: 60px;">Ans=</label>
+                            <input type="text" class="form-control text-center" id="inputAns" readonly>
+                        </div>
+                        
+                        <div class="d-grid gap-2">
+                            <div class="row g-2">
+                                <div class="col-3"><button class="btn btn-primary w-100" onclick="calculate('+')">+</button></div>
+                                <div class="col-3"><button class="btn btn-success w-100" onclick="calculate('-')">-</button></div>
+                                <div class="col-3"><button class="btn btn-warning w-100" onclick="calculate('*')">*</button></div>
+                                <div class="col-3"><button class="btn btn-danger w-100" onclick="calculate('/')">/</button></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap 5 JS Bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <script>
+        function calculate(operator) {
+            // 取得輸入值
+            const a = parseFloat(document.getElementById('inputA').value);
+            const b = parseFloat(document.getElementById('inputB').value);
+            const ansInput = document.getElementById('inputAns');
+            
+            // 檢查輸入是否有效
+            if (isNaN(a) || isNaN(b)) {
+                ansInput.value = '請輸入有效數字';
+                return;
+            }
+            
+            // 根據運算子計算結果
+            let result;
+            switch(operator) {
+                case '+':
+                    result = a + b;
+                    break;
+                case '-':
+                    result = a - b;
+                    break;
+                case '*':
+                    result = a * b;
+                    break;
+                case '/':
+                    if (b === 0) {
+                        ansInput.value = '不能除以零';
+                        return;
+                    }
+                    result = a / b;
+                    break;
+                default:
+                    result = '錯誤';
+            }
+            
+            // 顯示結果（固定小數後四位）
+            ansInput.value = result.toFixed(4);
+        }
+    </script>
+</body>
+</html>
