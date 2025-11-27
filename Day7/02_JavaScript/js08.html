@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript-8</title>
+    <script>
+        function btnOk(){
+            let n = parseInt(document.getElementById("txtN").value, 10);
+            
+            const d1 = document.getElementById("div01");
+            d1.innerHTML = "";
+            for(let i = 1; i<=n; i++){
+                for(let j=1; j<=i; j++){
+                    d1.innerHTML += "*";
+                }   
+                d1.innerHTML += "<br>";
+            }
+
+
+        }
+    </script>
+</head>
+<body>
+    <label>N=</label>
+    <input type="text" id="txtN">
+    <button onclick="btnOk()">OK</button>
+    <hr>
+    <div id="div01"></div>
+</body>
+</html>
