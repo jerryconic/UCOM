@@ -1,0 +1,9 @@
+﻿@{
+    DateTime d = ViewBag.Employee.Birthdate;
+    string s = d.ToString("yyyy-MM-dd");
+}
+<h2>員工資料結果</h2>
+<h3>員工編號:@ViewBag.Employee.Id</h3>
+<h3>員工姓名:@ViewBag.Employee.Name</h3>
+<h3>出生年月日:@s</h3>
+<h3>薪資:@ViewBag.Employee.Salary</h3>

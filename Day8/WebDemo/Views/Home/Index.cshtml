@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1>Hello world!</h1>
+    @*<h2>@ViewBag.Data</h2>*@
+    @*<h2>@ViewData["Data"]</h2>*@
+
+    @if(DateTime.Now.Hour < 12)
+    {
+        <h2>Good Morning, @ViewBag.Name!</h2>
+    }
+    else
+    {
+        <h2>Good Afternoon, @ViewBag.Name!</h2>
+    }   
+
+    <hr />
+    <h1>User List</h1>
+    @foreach(var user in ViewBag.Users)
+    {
+        <p>@user</p>
+    }
+    
+</div>
