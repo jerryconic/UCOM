@@ -1,0 +1,59 @@
+﻿@using System.Text.Json
+@{
+    ViewData["Title"] = "2024 台北市雨量圖";
+}
+
+<h2>@ViewData["Title"]</h2>
+<p>（雨量數字為示意值，單位：毫米 mm）</p>
+
+<div class="chart-container" style="width:80%; max-width:900px; margin:0 auto;">
+    <canvas id="rainChart"></canvas>
+</div>
+
+@section Scripts {
+    <!-- 引用 Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script>
+        const monthLabels = [
+            "1 月", "2 月", "3 月", "4 月", "5 月", "6 月",
+            "7 月", "8 月", "9 月", "10 月", "11 月", "12 月"
+        ];
+
+        // 從 Controller 注入資料
+        const rainData = @JsonSerializer.Serialize(ViewBag.RainData ?? Array.Empty<int>());
+
+        const ctx = document.getElementById("rainChart").getContext("2d");
+
+        const rainChart = new Chart(ctx, {
+            type: "bar",
+            data: {
+                labels: monthLabels,
+                datasets: [{
+                    label: "月累積雨量 (mm)",
+                    data: rainData,
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: { display: true },
+                    title: {
+                        display: true,
+                        text: "2024 年台北市每月雨量概況"
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        title: { display: true, text: "雨量 (mm)" }
+                    },
+                    x: {
+                        title: { display: true, text: "月份" }
+                    }
+                }
+            }
+        });
+    </script>
+}
