@@ -1,0 +1,44 @@
+﻿@model WebApplication1.Models.EmployeeViewModel
+
+@{
+    var isEdit = Model != null && Model.Id > 0;
+    ViewData["Title"] = isEdit ? "編輯員工" : "新增員工";
+}
+
+<h2 class="mb-3">@ViewData["Title"]</h2>
+
+<form method="post" asp-action="@(isEdit ? "EmployeeEdit" : "EmployeeCreate")">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    @if (isEdit)
+    {
+        <input type="hidden" asp-for="Id" />
+    }
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">姓名</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Birthdate" class="form-label">出生年月日</label>
+        <input asp-for="Birthdate" type="date" class="form-control" />
+        <span asp-validation-for="Birthdate" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Salary" class="form-label">薪資</label>
+        <input asp-for="Salary" class="form-control" />
+        <span asp-validation-for="Salary" class="text-danger"></span>
+    </div>
+
+    <div class="mt-3">
+        <button type="submit" class="btn btn-primary">@((isEdit ? "更新" : "新增"))</button>
+        <a asp-controller="Home" asp-action="EmployeeADO" class="btn btn-secondary ms-2">返回清單</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

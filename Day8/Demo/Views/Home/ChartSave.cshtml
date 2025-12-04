@@ -1,0 +1,153 @@
+﻿@model WebApplication1.Models.RainDataViewModel
+
+@{
+    ViewData["Title"] = "編輯雨量資料並即時更新圖表";
+}
+
+<style>
+    .chart-container {
+        width: 90%;
+        margin: 0 auto;
+        padding: 20px;
+        position: relative;
+    }
+
+    .chart-wrapper {
+        position: relative;
+        height: 60vh;
+        width: 100%;
+    }
+</style>
+
+<h2 class="mb-3">輸入 1–12 月雨量（mm）並即時更新折線圖</h2>
+
+<form method="post" asp-action="ChartSave">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="row g-3">
+        <div class="col-6 col-md-3">
+            <label asp-for="M1" class="form-label">1月</label>
+            <input asp-for="M1" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M1" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M2" class="form-label">2月</label>
+            <input asp-for="M2" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M2" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M3" class="form-label">3月</label>
+            <input asp-for="M3" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M3" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M4" class="form-label">4月</label>
+            <input asp-for="M4" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M4" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M5" class="form-label">5月</label>
+            <input asp-for="M5" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M5" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M6" class="form-label">6月</label>
+            <input asp-for="M6" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M6" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M7" class="form-label">7月</label>
+            <input asp-for="M7" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M7" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M8" class="form-label">8月</label>
+            <input asp-for="M8" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M8" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M9" class="form-label">9月</label>
+            <input asp-for="M9" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M9" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M10" class="form-label">10月</label>
+            <input asp-for="M10" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M10" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M11" class="form-label">11月</label>
+            <input asp-for="M11" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M11" class="text-danger"></span>
+        </div>
+        <div class="col-6 col-md-3">
+            <label asp-for="M12" class="form-label">12月</label>
+            <input asp-for="M12" class="form-control" inputmode="decimal" />
+            <span asp-validation-for="M12" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="mt-3">
+        <button type="submit" class="btn btn-primary">儲存並更新圖表</button>
+    </div>
+</form>
+
+<div class="chart-container mt-4">
+    <div class="chart-wrapper">
+        <canvas id="rainfallChart"></canvas>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+
+    <script>
+        // 從後端注入的資料
+        const labels = @Html.Raw(ViewBag.MonthsJson ?? "[]");
+        const rainfallData = @Html.Raw(ViewBag.RainfallJson ?? "[]");
+
+        const ctx = document.getElementById('rainfallChart').getContext('2d');
+        const rainfallChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: '雨量 (mm)',
+                    data: rainfallData,
+                    borderColor: 'rgb(75, 192, 192)',
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderWidth: 3,
+                    tension: 0.4,
+                    fill: true,
+                    pointRadius: 5,
+                    pointBackgroundColor: 'rgb(75, 192, 192)',
+                    pointBorderColor: '#fff',
+                    pointBorderWidth: 2,
+                    pointHoverRadius: 7
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    title: {
+                        display: true,
+                        text: '台北市各月份雨量分布',
+                        font: { size: 18, weight: 'bold' },
+                        padding: 20
+                    },
+                    legend: { display: true, position: 'top' }
+                },
+                scales: {
+                    y: { beginAtZero: true, title: { display: true, text: '雨量 (mm)' } },
+                    x: { title: { display: true, text: '月份' } }
+                }
+            }
+        });
+
+        // 視窗大小變化時自動調整
+        window.addEventListener('resize', () => rainfallChart.resize());
+    </script>
+
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

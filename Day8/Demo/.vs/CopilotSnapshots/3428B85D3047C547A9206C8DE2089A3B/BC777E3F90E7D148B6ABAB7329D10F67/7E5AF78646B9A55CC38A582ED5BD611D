@@ -1,0 +1,131 @@
+﻿using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Models;
+using Microsoft.Data.SqlClient;
+
+namespace WebApplication1.Controllers;
+
+public class HomeController : Controller
+{
+    private readonly ILogger<HomeController> _logger;
+
+    public HomeController(ILogger<HomeController> logger)
+    {
+        _logger = logger;
+    }
+
+    public IActionResult Index()
+    {
+        ViewBag.Data = "Hello world!";
+        ViewBag.Name = "John";
+        List<string> users = new List<string> { "Alice", "Bob", "Charlie" };
+        ViewBag.Users = users;
+        return View();
+    }
+    [HttpGet]
+    public IActionResult Employee()
+    {
+        return View();
+    }
+    [HttpPost]
+    public IActionResult Employee(int id, string name, DateTime? birthdate, int salary)
+    {
+        ViewBag.EmployeeData = new
+        {
+            Id = id,
+            Name = name,
+            Birthdate = birthdate,
+            Salary = salary
+        };
+        return View("EmployeeResult");
+    }
+
+    [HttpGet]
+    public IActionResult EmployeeCombine()
+    {
+        return View();
+    }
+    [HttpPost]
+    public IActionResult EmployeeCombine(int id, string name, DateTime? birthdate, int salary)
+    {
+
+
+        ViewBag.EmployeeData = new
+        {
+            Id = id,
+            Name = name,
+            Birthdate = birthdate ?? new DateTime(),
+            Salary = salary
+        };
+        return View();
+    }
+
+    [HttpGet]
+    public IActionResult EmployeeModel()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult EmployeeModel(EmployeeViewModel model)
+    {
+        if (ModelState.IsValid)
+            ViewBag.EmployeeData = model;
+        else
+            ViewBag.EmployeeData = null;
+
+        return View();
+    }
+    [HttpGet]
+    public IActionResult EmployeeSave()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult EmployeeSave(EmployeeViewModel model)
+    {
+        if (ModelState.IsValid)
+        {
+            try
+            {
+                string uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "uploads");
+                
+                if (!Directory.Exists(uploadsFolder))
+                {
+                    Directory.CreateDirectory(uploadsFolder);
+                }
+
+                string filePath = Path.Combine(uploadsFolder, "Employee.txt");
+                
+                string content = $"員工編號: {model.Id}\n員工姓名: {model.Name}\n出生年月日: {model.Birthdate:yyyy-MM-dd}\n薪資: {model.Salary}";
+                
+                System.IO.File.WriteAllText(filePath, content, System.Text.Encoding.UTF8);
+                
+                ViewBag.EmployeeData = model;
+                ViewBag.SaveMessage = "資料已成功儲存！";
+            }
+            catch (Exception ex)
+            {
+                ViewBag.SaveMessage = $"儲存失敗: {ex.Message}";
+                ViewBag.EmployeeData = model;
+            }
+        }
+        else
+        {
+            ViewBag.EmployeeData = null;
+        }
+
+        return View();
+    }
+    public IActionResult Privacy()
+    {
+        return View();
+    }
+
+    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+    public IActionResult Error()
+    {
+        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+    }
+}

@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "台北市2004年雨量統計";
+}
+<style>
+    .chart-container {
+        width: 90%;
+        margin: 0 auto;
+        padding: 20px;
+        position: relative;
+    }
+    .chart-wrapper {
+        position: relative;
+        height: 60vh; /* 讓圖表在高度上也具響應式 */
+        width: 100%;
+    }
+</style>
+<div class="container-fluid mt-4">
+    <h2 class="text-center mb-4">台北市 2004 年月雨量統計圖</h2>
+    <div class="chart-container">
+        <div class="chart-wrapper">
+            <canvas id="rainfallChart"></canvas>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script>
+        // 從後端取得的資料
+        const labels = @Html.Raw(ViewBag.MonthsJson ?? "[]");
+        const rainfallData = @Html.Raw(ViewBag.RainfallJson ?? "[]");
+        const ctx = document.getElementById('rainfallChart').getContext('2d');
+        const rainfallChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: '雨量 (mm)',
+                    data: rainfallData,
+                    borderColor: 'rgb(75, 192, 192)',
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderWidth: 3,
+                    tension: 0.4,
+                    fill: true,
+                    pointRadius: 5,
+                    pointBackgroundColor: 'rgb(75, 192, 192)',
+                    pointBorderColor: '#fff',
+                    pointBorderWidth: 2,
+                    pointHoverRadius: 7
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false, // 使其隨容器寬高調整
+                plugins: {
+                    title: {
+                        display: true,
+                        text: '台北市 2004 年各月份雨量分布',
+                        font: { size: 18, weight: 'bold' },
+                        padding: 20
+                    },
+                    legend: {
+                        display: true,
+                        position: 'top',
+                        labels: { font: { size: 14 } }
+                    },
+                    tooltip: {
+                        backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                        padding: 12,
+                        titleFont: { size: 14 },
+                        bodyFont: { size: 13 },
+                        callbacks: {
+                            label: (ctx) => `${ctx.dataset.label}: ${ctx.parsed.y} mm`
+                        }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        title: { display: true, text: '雨量 (mm)', font: { size: 14, weight: 'bold' } },
+                        ticks: { font: { size: 12 } },
+                        grid: { color: 'rgba(0, 0, 0, 0.1)' }
+                    },
+                    x: {
+                        title: { display: true, text: '月份', font: { size: 14, weight: 'bold' } },
+                        ticks: { font: { size: 12 } },
+                        grid: { color: 'rgba(0, 0, 0, 0.1)' }
+                    }
+                }
+            }
+        });
+        // 視窗大小變化時自動調整
+        window.addEventListener('resize', () => rainfallChart.resize());
+    </script>
+}

@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<form method="post" asp-action="EmployeeCombine">
+    <label for="txtId">員工編號</label>
+    <input id="txtId" name="id" />
+    <br />
+    <label for="txtName">員工姓名</label>
+    <input id="txtName" name="name" />
+    <br />
+    <label for="txtBirthdate">出生年月日</label>
+    <input id="txtBirthdate" name="birthdate" />
+    <br />
+    <label for="txtSalary">薪資</label>
+    <input id="txtSalary" name="salary" />
+    <br />
+    <input type="submit" value="送出" />
+</form>
+@if(ViewBag.EmployeeData != null)
+{
+    <hr />
+    
+        DateTime d = ViewBag.EmployeeData.Birthdate;
+        string s = d.ToString("yyyy-MM-dd");
+    
+    <h1>
+        <h2>資料內容:</h2>
+        <h3>員工編號:@ViewBag.EmployeeData.Id</h3>
+        <h3>員工姓名:@ViewBag.EmployeeData.Name</h3>
+        <h3>出生年月日:@s</h3>
+        <h3>薪資:@ViewBag.EmployeeData.Salary</h3>
+    </h1>
+}
