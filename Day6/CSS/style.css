@@ -1,0 +1,33 @@
+        div {
+            
+            width: 600px;
+            height: 180px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 16px;
+            margin: 10px;
+            padding: 20px;
+            
+        }
+
+        .m1 {
+            color: red;
+            background-color: lightyellow;
+            border: dashed red 2px;
+        }
+
+        .m2 {
+            color: green;
+            background-color: pink;
+            border: dashed blue 2px;
+        }
+
+        #d1{
+            border: solid blue 5px;
+            background-color: lightcyan;
+            color: darkblue;
+        }
+        #d2{
+            border: solid brown 5px;
+            background-color: lightyellow;
+            color: darkred;
+        }

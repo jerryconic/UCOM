@@ -1,0 +1,10 @@
+C:\Data\Day6\CS_Solution\Ap01\bin\Debug\Ap01.exe.config
+C:\Data\Day6\CS_Solution\Ap01\bin\Debug\Ap01.exe
+C:\Data\Day6\CS_Solution\Ap01\bin\Debug\Ap01.pdb
+C:\Data\Day6\CS_Solution\Ap01\obj\Debug\Ap01.csproj.AssemblyReference.cache
+C:\Data\Day6\CS_Solution\Ap01\obj\Debug\Ap01.Form1.resources
+C:\Data\Day6\CS_Solution\Ap01\obj\Debug\Ap01.Properties.Resources.resources
+C:\Data\Day6\CS_Solution\Ap01\obj\Debug\Ap01.csproj.GenerateResource.cache
+C:\Data\Day6\CS_Solution\Ap01\obj\Debug\Ap01.csproj.CoreCompileInputs.cache
+C:\Data\Day6\CS_Solution\Ap01\obj\Debug\Ap01.exe
+C:\Data\Day6\CS_Solution\Ap01\obj\Debug\Ap01.pdb
