@@ -5,7 +5,6 @@ namespace WebApplication1.Models;
 public class EmployeeViewModel
 {
     [Key]
-    [Required(ErrorMessage = "必須有編號")]    
     public int? Id { get; set; }
 
     [Required(ErrorMessage = "必須有員工姓名")]

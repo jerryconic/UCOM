@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\教育訓練\\台全電機\\Demo\\WebApplication1.csproj": {}
+    "C:\\Data\\Day8\\Demo\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\教育訓練\\台全電機\\Demo\\WebApplication1.csproj": {
+    "C:\\Data\\Day8\\Demo\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\教育訓練\\台全電機\\Demo\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Data\\Day8\\Demo\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\教育訓練\\台全電機\\Demo\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\Jerry\\.nuget\\packages\\",
-        "outputPath": "D:\\教育訓練\\台全電機\\Demo\\obj\\",
+        "projectPath": "C:\\Data\\Day8\\Demo\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Data\\Day8\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jerry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = D:\教育訓練\台全電機\Demo\
+build_property.ProjectDir = C:\Data\Day8\Demo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\教育訓練\台全電機\Demo
+build_property.MSBuildProjectDirectory = C:\Data\Day8\Demo
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/Chart.cshtml]
+[C:/Data/Day8/Demo/Views/Home/Chart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/ChartSave.cshtml]
+[C:/Data/Day8/Demo/Views/Home/ChartSave.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGFydFNhdmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/Employee.cshtml]
+[C:/Data/Day8/Demo/Views/Home/Employee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbXBsb3llZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/EmployeeADO.cshtml]
+[C:/Data/Day8/Demo/Views/Home/EmployeeADO.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbXBsb3llZUFETy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/EmployeeADO_Form.cshtml]
+[C:/Data/Day8/Demo/Views/Home/EmployeeADO_Form.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbXBsb3llZUFET19Gb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/EmployeeCombine.cshtml]
+[C:/Data/Day8/Demo/Views/Home/EmployeeCombine.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbXBsb3llZUNvbWJpbmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/EmployeeModel.cshtml]
+[C:/Data/Day8/Demo/Views/Home/EmployeeModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbXBsb3llZU1vZGVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/EmployeeResult.cshtml]
+[C:/Data/Day8/Demo/Views/Home/EmployeeResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbXBsb3llZVJlc3VsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/EmployeeSave.cshtml]
+[C:/Data/Day8/Demo/Views/Home/EmployeeSave.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbXBsb3llZVNhdmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/Index.cshtml]
+[C:/Data/Day8/Demo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Home/Privacy.cshtml]
+[C:/Data/Day8/Demo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Shared/Error.cshtml]
+[C:/Data/Day8/Demo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Data/Day8/Demo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/_ViewImports.cshtml]
+[C:/Data/Day8/Demo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/_ViewStart.cshtml]
+[C:/Data/Day8/Demo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/教育訓練/台全電機/Demo/Views/Shared/_Layout.cshtml]
+[C:/Data/Day8/Demo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx

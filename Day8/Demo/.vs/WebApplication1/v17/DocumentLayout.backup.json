@@ -1,41 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\",
+  "WorkspaceRootPath": "C:\\Data\\Day8\\Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\demo\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\demo\\views\\home\\employeemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:views\\home\\employeemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\demo\\views\\home\\employeeado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:views\\home\\employeeado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\demo\\models\\customfontresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:models\\customfontresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\views\\home\\employeeado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:views\\home\\employeeado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\demo\\views\\home\\employeeado_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\views\\home\\employeeado_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:views\\home\\employeeado_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\demo\\views\\home\\chartsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\views\\home\\employeemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:views\\home\\employeemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\models\\customfontresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:models\\customfontresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\views\\home\\chartsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:views\\home\\chartsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\demo\\models\\raindataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\models\\raindataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:models\\raindataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|d:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\demo\\views\\home\\chart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|c:\\data\\day8\\demo\\views\\home\\chart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A3C0DE8-0DB5-4D1D-ACCD-8C9880C96AAE}|WebApplication1.csproj|solutionrelative:views\\home\\chart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -46,78 +58,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeModel.cshtml",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Views\\Home\\EmployeeModel.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\EmployeeModel.cshtml",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Views\\Home\\EmployeeModel.cshtml",
-              "RelativeToolTip": "Views\\Home\\EmployeeModel.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-04T00:15:30.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeViewModel.cs",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Models\\EmployeeViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\EmployeeViewModel.cs",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Models\\EmployeeViewModel.cs",
-              "RelativeToolTip": "Models\\EmployeeViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T00:15:10.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomFontResolver.cs",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Models\\CustomFontResolver.cs",
-              "RelativeDocumentMoniker": "Models\\CustomFontResolver.cs",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Models\\CustomFontResolver.cs",
-              "RelativeToolTip": "Models\\CustomFontResolver.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAABAwBAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T03:26:53.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeADO_Form.cshtml",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Views\\Home\\EmployeeADO_Form.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\EmployeeADO_Form.cshtml",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Views\\Home\\EmployeeADO_Form.cshtml",
-              "RelativeToolTip": "Views\\Home\\EmployeeADO_Form.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-03T02:42:29.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeADO.cshtml",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Views\\Home\\EmployeeADO.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\EmployeeADO.cshtml",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Views\\Home\\EmployeeADO.cshtml",
-              "RelativeToolTip": "Views\\Home\\EmployeeADO.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-03T02:42:22.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ChartSave.cshtml",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Views\\Home\\ChartSave.cshtml",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\Views\\Home\\ChartSave.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\ChartSave.cshtml",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Views\\Home\\ChartSave.cshtml",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\Views\\Home\\ChartSave.cshtml",
               "RelativeToolTip": "Views\\Home\\ChartSave.cshtml",
               "ViewState": "AgIAAIAAAAAAAAAAAAAawJgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -125,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "RainDataViewModel.cs",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Models\\RainDataViewModel.cs",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\Models\\RainDataViewModel.cs",
               "RelativeDocumentMoniker": "Models\\RainDataViewModel.cs",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Models\\RainDataViewModel.cs",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\Models\\RainDataViewModel.cs",
               "RelativeToolTip": "Models\\RainDataViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,11 +86,114 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAALIBAAAAAAAAAAAtwLoBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:48:00.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T08:23:30.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T08:25:17.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T08:22:14.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Models\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:15:10.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeADO.cshtml",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\Views\\Home\\EmployeeADO.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\EmployeeADO.cshtml",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\Views\\Home\\EmployeeADO.cshtml",
+              "RelativeToolTip": "Views\\Home\\EmployeeADO.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T02:42:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeADO_Form.cshtml",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\Views\\Home\\EmployeeADO_Form.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\EmployeeADO_Form.cshtml",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\Views\\Home\\EmployeeADO_Form.cshtml",
+              "RelativeToolTip": "Views\\Home\\EmployeeADO_Form.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T02:42:29.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "CustomFontResolver.cs",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\Models\\CustomFontResolver.cs",
+              "RelativeDocumentMoniker": "Models\\CustomFontResolver.cs",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\Models\\CustomFontResolver.cs",
+              "RelativeToolTip": "Models\\CustomFontResolver.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABAwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T03:26:53.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Chart.cshtml",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Views\\Home\\Chart.cshtml",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\Views\\Home\\Chart.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Chart.cshtml",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Views\\Home\\Chart.cshtml",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\Views\\Home\\Chart.cshtml",
               "RelativeToolTip": "Views\\Home\\Chart.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -149,15 +201,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\\u6559\u80B2\u8A13\u7DF4\\\u53F0\u5168\u96FB\u6A5F\\Demo\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAANIBAAAAAAAAAAAAANgBAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T00:48:00.075Z"
+              "DocumentIndex": 7,
+              "Title": "EmployeeModel.cshtml",
+              "DocumentMoniker": "C:\\Data\\Day8\\Demo\\Views\\Home\\EmployeeModel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\EmployeeModel.cshtml",
+              "ToolTip": "C:\\Data\\Day8\\Demo\\Views\\Home\\EmployeeModel.cshtml",
+              "RelativeToolTip": "Views\\Home\\EmployeeModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T00:15:30.904Z"
             }
           ]
         }
